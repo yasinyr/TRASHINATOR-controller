@@ -128,5 +128,4 @@ void serialEvent() {
     Serial.println(inChar);
     state = inChar;
   }
-  
 }
